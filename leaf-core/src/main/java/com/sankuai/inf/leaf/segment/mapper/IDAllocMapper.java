@@ -1,4 +1,4 @@
-package com.sankuai.inf.leaf.segment.dao;
+package com.sankuai.inf.leaf.segment.mapper;
 
 import com.sankuai.inf.leaf.segment.model.LeafAlloc;
 import org.apache.ibatis.annotations.*;
